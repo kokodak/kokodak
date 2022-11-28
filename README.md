@@ -1,8 +1,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kokodak)](https://solved.ac/kokodak/)
 
-## kokodak
+### ABOUT ME
 
-PS를 좋아하고, 최근엔 자바를 공부하고 있습니다.
+- PS를 좋아합니다.
+- 백엔드 개발자를 희망하고 있습니다.
+- 최근에는 자바를 공부하고 있습니다.
 
 <!--
 **kokodak/kokodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
