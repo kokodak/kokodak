@@ -11,8 +11,3 @@
 [백준](https://www.acmicpc.net/user/kokodak)  
 [네이버 블로그](https://blog.naver.com/raylee00)   
 [티스토리 블로그](https://kokodakadokok.tistory.com/)
-
-- 우아한테크코스 백엔드 5기 [23.02.07 ~ ]
-- Sejong Algorithm Lab 심화반 스터디
-- 세종대학교 프로그래밍 경시대회 입상 (3rd) [20.12.11]
-- 세종대학교 컴퓨터공학과 [20.03 ~ ]
