@@ -2,6 +2,8 @@
 
 ## ABOUT ME
 
+[기술 포트폴리오](https://kokodak.notion.site/1089e48beaef42c8b21b0bc5cb83ed59?pvs=4)
+
 알고리즘을 좋아하고, PS를 취미로 하고 있습니다.  
 
 백엔드 분야의 기술에 관심이 많습니다.  
