@@ -1,6 +1,6 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kokodak)](https://solved.ac/kokodak/)
+## 안녕하세요, 이승용 입니다.
 
-## ABOUT ME
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kokodak)](https://solved.ac/kokodak/)
 
 [기술 포트폴리오](https://kokodak.notion.site/1089e48beaef42c8b21b0bc5cb83ed59?pvs=4)
 
@@ -14,7 +14,7 @@
 
 좋은 개발자가 되기 위해 노력합니다.
 
-## Links
+## 링크
 
 [백준](https://www.acmicpc.net/user/kokodak)
 
