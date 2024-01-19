@@ -4,7 +4,7 @@
 
 ### Links
 
-[이력서](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e)
+[**이력서**](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e)
 
 [네이버 블로그](https://blog.naver.com/raylee00)
 
