@@ -4,9 +4,11 @@
 
 ### Links
 
-[기술 포트폴리오](https://kokodak.notion.site/1089e48beaef42c8b21b0bc5cb83ed59?pvs=4) | [동료 피드백](https://kokodak.notion.site/680a35e4444540b4957c4474e72317f1?pvs=4)
+[이력서](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e)
 
-[네이버 블로그](https://blog.naver.com/raylee00) | [티스토리 블로그](https://kokodakadokok.tistory.com/)
+[네이버 블로그](https://blog.naver.com/raylee00)
+
+[티스토리 블로그](https://kokodakadokok.tistory.com/)
 
 ### History
 
