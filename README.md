@@ -24,6 +24,4 @@
 
 세종대학교 컴퓨터공학과 재학 (4.18 / 4.5) | 2020.03 ~
 
-
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaeyeonroyce%2Fhit-counter&count_bg=%23C380E8&title_bg=%23B7B7B7&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
