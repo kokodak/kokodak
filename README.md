@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kokodak)](https://solved.ac/kokodak/)
+<a href="https://solved.ac/profile/kokodak"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=kokodak"></a><br>
 
 코드를 좋아합니다.
 
