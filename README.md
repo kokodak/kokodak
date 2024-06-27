@@ -2,7 +2,7 @@
 
 ### Links
 
-[Resume](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e)
+[Resume (korean)](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e)
 
 [Naver Blog](https://blog.naver.com/raylee00)
 
