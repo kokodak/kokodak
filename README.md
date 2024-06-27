@@ -4,7 +4,7 @@
 
 ### Links
 
-[**이력서**](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e)
+[이력서](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e)
 
 [네이버 블로그](https://blog.naver.com/raylee00)
 
@@ -24,4 +24,4 @@
 
 세종대학교 제7회 프로그래밍 경진대회 3등 | 2020.12
 
-세종대학교 컴퓨터공학과 재학 (4.18 / 4.5) | 2020.03 ~
+세종대학교 컴퓨터공학과 재학 (4.22 / 4.5) | 2020.03 ~
