@@ -16,7 +16,7 @@ jobs:
           -d '{"body": "Please wait a moment, your guestbook comment is being registered."}')
         echo "response=$response"
         comment_id=$(echo "$response" | jq -r '.id')
-        echo "::set-output name=comment_id::$comment_id"
+        echo "COMMENT_ID=$comment_id" >> $GITHUB_ENV
     
   update-readme:
     runs-on: ubuntu-latest
