@@ -8,7 +8,17 @@
 
 [Tistory Blog](https://kokodakadokok.tistory.com/)
 
+---
+
 ### Guestbook
+
+You can register for a guestbook using the latest high-end technology. No, just kidding.
+
+Just follow [this link](https://github.com/kokodak/kokodak/issues/new?assignees=&labels=&projects=&template=guestbook-template.md&title=Hi%2C+kokodak%21) and leave a guestbook comment.
+
+Your guestbook will be added to the body of the issue, please wait a few moments after the issue is published.
+
+---
 
 comment 2  `comment by kokodak`
 
