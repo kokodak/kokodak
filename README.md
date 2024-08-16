@@ -12,7 +12,7 @@
 
 **[Just follow this link and leave a guestbook comment.](https://github.com/kokodak/kokodak/issues/new?assignees=&labels=&projects=&template=guestbook-template.md&title=Hi%2C+kokodak%21)**
 
-Your guestbook will be added to HERE, please wait a few moments after the issue is published.
+Your comment will be added to HERE, please wait a few moments after the issue is published.
 
 ---
 
