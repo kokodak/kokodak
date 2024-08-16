@@ -5,17 +5,30 @@ on:
     types: [opened]
 
 jobs:
+  comment-on-issue:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Comment on the issue
+      run: |
+        response=$(curl -X POST -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
+          -d '{"body": "Please wait a moment, your guestbook comment is being registered."}')
+        echo "response=$response"
+        comment_id=$(echo "$response" | jq -r '.id')
+        echo "::set-output name=comment_id::$comment_id"
+    
   update-readme:
     runs-on: ubuntu-latest
-
+    needs: comment-on-issue
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
 
     - name: Update README.md
       run: |
-        echo "${{ github.event.issue.body }}" >> README.md
-        echo "> comment by ${{ github.event.issue.user.login }}" >> README.md
+        echo "${{ github.event.issue.body }}  `comment by ${{ github.event.issue.user.login }}`" >> README.md
+        echo "" >> README.md
 
     - name: Commit changes
       run: |
@@ -29,17 +42,25 @@ jobs:
       with:
         github_token: ${{ secrets.MY_TOKEN }}
 
-    - name: Comment on the issue
+  update-comment:
+    runs-on: ubuntu-latest
+    needs: update-readme
+    steps:
+    - name: Update issue comment
       run: |
-        curl -X POST -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
-        -H "Accept: application/vnd.github.v3+json" \
-        https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
-        -d '{"body": "Thank you for your contribution."}'
+        comment_id=${{ needs.comment-on-issue.outputs.comment_id }}
+        curl -X PATCH -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/comments/$comment_id \
+          -d '{"body": "Thank you for your contribution."}'
 
+  close-issue:
+    runs-on: ubuntu-latest
+    needs: update-comment
+    steps:
     - name: Close the issue
       run: |
         curl -X PATCH -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
-        -H "Accept: application/vnd.github.v3+json" \
-        https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }} \
-        -d '{"state": "closed"}'
-        
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }} \
+          -d '{"state": "closed"}'
