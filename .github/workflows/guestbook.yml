@@ -24,7 +24,7 @@ jobs:
 
     - name: Update README.md
       run: |
-        echo "${{ github.event.issue.body }}  \`comment by [${{ github.event.issue.user.login }}](${{ github.event.issue.user.html_url }})\`" >> README.md
+        echo "${{ github.event.issue.body }} || comment by [${{ github.event.issue.user.login }}](${{ github.event.issue.user.html_url }})" >> README.md
         echo "" >> README.md
 
     - name: Commit changes
