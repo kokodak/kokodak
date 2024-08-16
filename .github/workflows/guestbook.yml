@@ -1,0 +1,45 @@
+name: Update README on Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Update README.md
+      run: |
+        echo "${{ github.event.issue.body }}" >> README.md
+        echo "> comment by ${{ github.event.issue.user.login }}" >> README.md
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "kokodak"
+        git config --global user.email "kokodakadokok@gmail.com"
+        git add README.md
+        git commit -m "Update Guestbook with #${{ github.event.issue.number }}"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.8.0
+      with:
+        github_token: ${{ secrets.MY_TOKEN }}
+
+    - name: Comment on the issue
+      run: |
+        curl -X POST -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
+        -H "Accept: application/vnd.github.v3+json" \
+        https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
+        -d '{"body": "Thank you for your contribution."}'
+
+    - name: Close the issue
+      run: |
+        curl -X PATCH -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
+        -H "Accept: application/vnd.github.v3+json" \
+        https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }} \
+        -d '{"state": "closed"}'
+        
