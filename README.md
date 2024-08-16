@@ -7,12 +7,7 @@
 [Naver Blog](https://blog.naver.com/raylee00)
 
 [Tistory Blog](https://kokodakadokok.tistory.com/)
-## New Issue: hello
-this is my first issue
-\n---\n
-this is my comment.
-> comment by kokodak
-this is my second comment!  
+
+### Guestbook
 
 comment  `comment by kokodak`
-
