@@ -1,0 +1,32 @@
+name: Update README on Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Update README.md
+      run: |
+        echo "## New Issue: ${{ github.event.issue.title }}" >> README.md
+        echo "${{ github.event.issue.body }}" >> README.md
+        echo "\n---\n" >> README.md
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "kokodak"
+        git config --global user.email "kokodakadokok@gmail.com"
+        git add README.md
+        git commit -m "Update README.md with new issue #${{ github.event.issue.number }}"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.8.0
+      with:
+        github_token: ${{ secrets.MY_TOKEN }}
+        
