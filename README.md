@@ -28,3 +28,6 @@ oh yes  `comment by kokodak`
 
 hi kokodak  `comment by kokodak`
 
+Is this working?
+  `comment by [kokodak](https://github.com/kokodak)`
+
