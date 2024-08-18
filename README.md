@@ -33,3 +33,6 @@ kokodak, my life.
 kokodak, my soul.
 kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
 
+그냥 아무렇게나 쓰면 되나요?
+ || comment by [TaeyeonRoyce](https://github.com/TaeyeonRoyce)
+
