@@ -1,22 +1,16 @@
-<a href="https://solved.ac/profile/kokodak"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=kokodak"></a><br>
+## Hi there! I'm kokodak.
 
-### Links
-
-[Resume (Korean)](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e)
-
-[Naver Blog](https://blog.naver.com/raylee00)
-
-[Tistory Blog](https://kokodakadokok.tistory.com/)
+[Resume (Korean)](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e) | [Naver Blog](https://blog.naver.com/raylee00) | [Tistory Blog](https://kokodakadokok.tistory.com/)
 
 ## Guestbook
 
-**[Just follow this link and leave a comment.](https://github.com/kokodak/kokodak/issues/new?assignees=&labels=&projects=&template=guestbook-template.md&title=Hi%2C+kokodak%21)**
+**[Follow this link and feel free to leave a comment!](https://github.com/kokodak/kokodak/issues/new?assignees=&labels=&projects=&template=guestbook-template.md&title=Hi%2C+kokodak%21)**
 
-Your comment will be added to HERE, please wait a few moments after the issue is published.
+Your comment will be added HERE.
 
----
+### comment
 
-finally? || comment by [kokodak](https://github.com/kokodak)
+Hi! I'm kokodak who loves open source. || comment by [kokodak](https://github.com/kokodak)
 
 big-----------------kokodak----------
  || comment by [Indigochi1d](https://github.com/Indigochi1d)
