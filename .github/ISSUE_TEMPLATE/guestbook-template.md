@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-[Please leave a guestbook here. Your message will be registered as a guestbook. Don't forget to clear this default text before writing.]
+[Please leave a comment here. Your message will be registered to Guestbook section on my README. Don't forget to clear this default text before writing.]
