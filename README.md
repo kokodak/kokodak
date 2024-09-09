@@ -38,3 +38,6 @@ kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
 
 오랜만에 외쳐본다.... 대-----------승-----------용 || comment by [whxogus215](https://github.com/whxogus215)
 
+<img src=https://github.com/user-attachments/assets/dd215829-17b8-4968-9407-8b46bdee3e63 width=80px />
+ || comment by [wzrabbit](https://github.com/wzrabbit)
+
