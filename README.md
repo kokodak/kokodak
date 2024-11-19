@@ -2,6 +2,8 @@
 
 [Resume (Korean)](https://kokodak.notion.site/SEUNG-YONG-LEE-f813ea0535224e3aad33cf623ed46d6e) | [Naver Blog](https://blog.naver.com/raylee00) | [Tistory Blog](https://kokodakadokok.tistory.com/)
 
+open source lover. a member of [Yorkie](https://github.com/yorkie-team). a founder/organizer of [Greedy Community](https://discord.gg/tkJ8QZbn6k).
+
 ## Guestbook
 
 **[Follow this link and feel free to leave a comment!](https://github.com/kokodak/kokodak/issues/new?assignees=&labels=&projects=&template=guestbook-template.md&title=Hi%2C+kokodak%21)**
