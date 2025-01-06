@@ -44,3 +44,5 @@ kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
 
 <img src=https://github.com/user-attachments/assets/dd215829-17b8-4968-9407-8b46bdee3e63 width=80px /> || comment by [wzrabbit](https://github.com/wzrabbit)
 
+코코닷 이름보면 코코볼 생각나 || comment by [PlusUltraCode](https://github.com/PlusUltraCode)
+
