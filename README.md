@@ -1,7 +1,5 @@
 ## Hi there! I'm kokodak.
 
-[Resume (Korean)](https://kokodak.notion.site) | [Naver Blog](https://blog.naver.com/raylee00) | [Tistory Blog](https://kokodakadokok.tistory.com/)
-
 open source lover. a member of [Yorkie](https://github.com/yorkie-team). a founder/organizer of [Greedy Community](https://discord.gg/tkJ8QZbn6k).
 
 </br>
