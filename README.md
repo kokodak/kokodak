@@ -10,7 +10,8 @@ open source lover. a member of [Yorkie](https://github.com/yorkie-team). a found
 
 Your comment will be added HERE.
 
-### comment
+<details>
+    <summary>Comment</summary>
 
 Hi! I'm kokodak who loves open source. || comment by [kokodak](https://github.com/kokodak)
 
@@ -44,3 +45,4 @@ kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
 
 코코닷 이름보면 코코볼 생각나 || comment by [PlusUltraCode](https://github.com/PlusUltraCode)
 
+</details>
