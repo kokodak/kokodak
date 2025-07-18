@@ -46,3 +46,21 @@ kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
 코코닷 이름보면 코코볼 생각나 || comment by [PlusUltraCode](https://github.com/PlusUltraCode)
 
 </details>
+<div align=center>
+  <table>
+    <tr>
+      <th></th>
+    </tr>
+    <tr>
+      <td valign=top>
+        <img
+          width=360
+          alt=dance_like_a_pengoose
+          src=https://github.com/pengooseDev/pengooseDev/assets/73521518/ebcbc80c-4dd0-471c-af8e-2ec9665a8901
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+ || comment by [pengooseDev](https://github.com/pengooseDev)
+
