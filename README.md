@@ -45,7 +45,6 @@ kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
 
 코코닷 이름보면 코코볼 생각나 || comment by [PlusUltraCode](https://github.com/PlusUltraCode)
 
-</details>
 <div align=center>
   <table>
     <tr>
@@ -62,5 +61,9 @@ kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
     </tr>
   </table>
 </div>
+
  || comment by [pengooseDev](https://github.com/pengooseDev)
+
+</details>
+
 
