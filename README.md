@@ -1,6 +1,6 @@
-## Hi there! I'm kokodak.
+Love open source.
 
-open source lover. a member of [Yorkie](https://github.com/yorkie-team). a founder/organizer of [Greedy Community](https://discord.gg/tkJ8QZbn6k).
+Maintainer of [Yorkie](https://github.com/yorkie-team). Founder and Organizer of [Greedy Community](https://github.com/greedy-team).
 
 </br>
 
@@ -65,5 +65,6 @@ kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
  || comment by [pengooseDev](https://github.com/pengooseDev)
 
 </details>
+
 
 
