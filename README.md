@@ -1,8 +1,6 @@
-Love open source.
-
 Maintainer of [Yorkie](https://github.com/yorkie-team). Founder and Organizer of [Greedy Community](https://github.com/greedy-team).
 
-</br>
+About me: [CV(English)](https://github.com/kokodak/CV/blob/main/CV.pdf), [Notion(Korean)](https://kokodak.notion.site)
 
 ## Guestbook
 
@@ -65,6 +63,3 @@ kokodak, me. || comment by [bagzaru](https://github.com/bagzaru)
  || comment by [pengooseDev](https://github.com/pengooseDev)
 
 </details>
-
-
-
