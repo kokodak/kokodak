@@ -1,7 +1,5 @@
 Maintainer at [Yorkie](https://github.com/yorkie-team). Founder and Organizer at [Greedy Community](https://github.com/greedy-team).
 
-About me: [CV(English)](https://github.com/kokodak/CV/blob/main/CV.pdf), [Notion(Korean)](https://kokodak.notion.site)
-
 ## Guestbook
 
 **[Follow this link and feel free to leave a comment!](https://github.com/kokodak/kokodak/issues/new?assignees=&labels=&projects=&template=guestbook-template.md&title=Hi%2C+kokodak%21)**
